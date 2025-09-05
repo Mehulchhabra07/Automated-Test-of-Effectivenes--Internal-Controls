@@ -11,6 +11,7 @@
 
 This intelligent auditing tool leverages OpenAI's GPT models to automate the traditionally manual and time-intensive process of Test of Effectiveness (TOE) evidence analysis. The system processes multiple evidence formats and provides comprehensive AI-driven assessment of control effectiveness.
 
+![Workflow](AITOEAutomation.jpeg)
 ### 🎯 Key Features
 
 - **🧠 AI-Driven Analysis**: Utilizes OpenAI GPT-4o for intelligent evidence evaluation
